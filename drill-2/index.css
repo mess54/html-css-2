@@ -1,0 +1,30 @@
+#dot {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    background-color: paleturquoise;
+}
+
+#purple-stick {
+    height: 200px;
+    width: 50px;
+    background-color: purple;
+}
+
+#green-rectangle {
+    height: 200px;
+    width: 350px;
+    background-color: green;
+}
+
+header {
+    height: 235px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    align-content: center;
+    flex-wrap: wrap;
+    border-color: black;
+    border-style: solid;
+}
